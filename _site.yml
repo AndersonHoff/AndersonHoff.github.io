@@ -5,9 +5,9 @@ navbar:
   left:
     - text: "Academic"
       href: academic.html
-    - text: "Speaking"
+    - text: "Research"
       href: talks.html
-    - text: "Programming"
+    - text: "Teaching"
       href: software.html
     - text: "Publications"
       href: teaching.html
@@ -21,6 +21,6 @@ navbar:
 output:
   html_document:
     theme: paper
-    include:
-      after_body: footer.html
+#    include:
+#      after_body: footer.html
     css: 'styles.css'
