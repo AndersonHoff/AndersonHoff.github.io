@@ -1,0 +1,26 @@
+name: "Anderson Hoff"
+output_dir: "."
+navbar:
+  title: "Anderson Hoff"
+  left:
+    - text: "Academic"
+      href: academic.html
+    - text: "Speaking"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/AndersonHoff
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/anderson-hoff-11582b23/?locale=en_US
+output:
+  html_document:
+    theme: cosmo
+    include:
+      after_body: footer.html
+    css: 'styles.css'
