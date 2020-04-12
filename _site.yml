@@ -20,7 +20,7 @@ navbar:
       href: https://www.linkedin.com/in/anderson-hoff-11582b23/?locale=en_US
 output:
   html_document:
-    theme: cosmo
+    theme: paper
     include:
       after_body: footer.html
     css: 'styles.css'
