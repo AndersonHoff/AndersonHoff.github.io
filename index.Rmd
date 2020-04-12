@@ -5,10 +5,13 @@
 
 <img src="images/foto_Anderson.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to breast cancer through my work as a Research Biostatistician at  in the department of Epidemiology & Biostatistics. 
+I like to analyze data to answer research questions and test hypotheses. Currently I work with different sources to learn more about R programming and analysis. Also, I am working with Tableau in some data analysis.  
 
-I graduated from the [Universidade do Estado de Santa Catarina](https://www.udesc.br/cct/ppgf) with BS and after a MS in Physics in 2014. In this same year I began working toward my PhD in Physics as a full-time research assistant at [Universidade Federal do Parana](http://fisica.ufpr.br/pagina_ppgf_english/), where I am investigating statistical methods for the study of etiologic heterogeneity in epidemiologic studies under the advisement of [Dr. Ivo A. Hümmelgen](http://fisica.ufpr.br/pagina_ppgf_english/info_ivo.html). I obtained my PhD in 2019.
+To have a big picture of my qualifications, take a look of my resume available [here](files/AndersonHoff_resume.pdf).  
 
-I am a well-known R enthusiast, including serving on the board and being an active member of . 
+In some words, I graduated from the [Universidade do Estado de Santa Catarina](https://www.udesc.br/cct/ppgf) with a BS and after a MS in Physics in 2014. In this same year I began working toward my PhD in Physics as a full-time research assistant at [Universidade Federal do Parana](http://fisica.ufpr.br/pagina_ppgf_english/), where I built and fully characterized organic and inorganic solar cells, under the advisement of [Dr. Ivo A. Hümmelgen](http://fisica.ufpr.br/pagina_ppgf_english/info_ivo.html). I obtained my PhD in the end of 2017.
 
-My full CV is available [here](files/AndersonHoff_resume.pdf).
+In 2018 I started a postdoctorate at [Universidade do Estado de Santa Catarina](https://www.udesc.br/cct/ppgf), with a research in chaotic time series, when I had to use several programming skills and could learn more about R and Python. At this time I started using R, and I am now an R enthusiast.   
+
+In the beggining of 2020 I moved from Brazil to Canada, and now I am based in Toronto ON.  
+

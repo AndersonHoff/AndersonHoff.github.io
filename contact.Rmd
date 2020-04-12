@@ -4,6 +4,8 @@ output: html_document
   
 <br>
 
+## Contact Info  
+
 I’d enjoy to hear from you, so feel free to reach out:  
 
 Toronto, ON - Canada  

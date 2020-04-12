@@ -5,12 +5,12 @@ navbar:
   left:
     - text: "Academic"
       href: academic.html
-    - text: "Research"
-      href: talks.html
+    - text: "Programming"
+      href: programming.html
     - text: "Teaching"
-      href: software.html
-    - text: "Publications"
       href: teaching.html
+    - text: "Research and Publications"
+      href: publications.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
