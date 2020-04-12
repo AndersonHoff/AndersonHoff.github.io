@@ -9,7 +9,7 @@ navbar:
       href: talks.html
     - text: "Programming"
       href: software.html
-    - text: "Teaching"
+    - text: "Publications"
       href: teaching.html
   right:
     - icon: fa-envelope fa-lg
