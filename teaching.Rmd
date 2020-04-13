@@ -1,9 +1,13 @@
 ---
-output: html_document
 ---
+<br>    
+  
+## Teaching experience  
+<br>  
+<font size="3"> In the past years, I could had different experiences working as a high school teacher and after as a university professor.  
 
-## Teaching experience
+I worked in 2010 as a high school teacher, responsible for the Physics classes.  
 
+In 2019 I worked as an on-line tutor in a college. I was responsible for give help and feedback for students in different subjects, as Mathematics, Physics, Calculus and Algebra.  
 
-### In construction...
-
+Also in 2019 I worked as a Professor in a private university, with Physics lectures to engineering students. </font>
