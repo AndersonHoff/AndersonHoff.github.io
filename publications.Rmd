@@ -1,24 +1,26 @@
 ---
 title: "Research and publications"
 ---
-<br>  
-
+  
 <font size="3"> During my academic journey, I have published papers in different journals, in a variety of fields, always related with my scientific research. The complete list can also be seen in [Google Sholar](https://scholar.google.com/citations?user=oV62NPgAAAAJ&hl=pt-BR).
 
 These papers are listed below, where I separated according to the respective research. </font>  
-  
-### Master in Physics  
 
-<font size="3"> In my MS research, I worked under supervision of [Dr. Holokx A. Albuquerque](https://www.udesc.br/professor/holokx.albuquerque). My research was related to chaos theory and time series analysis. Particularly, I worked with bifurcation curves and Lyapunov exponents in chaotic dynamical systems. The following papers resulted from these researchs:  
+##  {.tabset .tabset-fade .tabset-pills}
 
-[Bifurcation structures and transient chaos in a four-dimensional Chua model](https://www.sciencedirect.com/science/article/pii/S0375960113010384)  
-Physics Letters A - 2014  
+### Postdoctorate in Physics
 
-[Numerical bifurcation analysis of two coupled FitzHugh-Nagumo oscillators](https://link.springer.com/article/10.1140/epjb/e2014-50170-9)  
-The European Physical Journal B - 2014  
+<font size="3"> In my postdoctorate, I worked with time series analysis with Dr. Holokx A. Albuquerque. However, different from my master's research, at this time we built analogic electronic circuits to study the chaotic behavior of systems under different parameters, and correlated the results with numerical simulations. Many interesting results are still waiting to be published. other results were published and are listed below.  
 
-[Extensive numerical study and circuitry implementation of the Watt governor model](https://www.worldscientific.com/doi/abs/10.1142/S0218127417501759)  
-International Journal of Bifurcation and Chaos - 2017 </font> 
+[Tracking multistability in the parameter space of a Chua’s circuit model](https://link.springer.com/article/10.1140/epjb/e2019-90749-x)  
+The European Physical Journal B - 2019  
+
+[Characterizing the Dynamics of the Watt Governor System Under Harmonic Perturbation and Gaussian Noise](https://www.worldscientific.com/doi/abs/10.1142/S0218127420300013)  
+International Journal of Bifurcation and Chaos - 2020  
+
+Particularly, the last publication is a Featured Article, and the cover of correspondig issue presented below. </font>
+
+<img src="images/cover_ijbc_2020.jpg" style="width:30%; border:0px solid; margin-right: 20px" align="center">  
 
 ### PhD in Physics  
 
@@ -36,16 +38,15 @@ Semiconductor Science and Technology - 2017
 [GaxSe10-x based solar cells: Some alternatives for the improvement in their performance parameters](https://www.sciencedirect.com/science/article/pii/S0927024819300029)  
 Solar Energy Materials and Solar Cells - 2019 </font> 
 
-### Postdoctorate in Physics
+### Master in Physics  
 
-<font size="3"> In my postdoctorate, I worked again with time series analysis with Dr. Holokx A. Albuquerque. But at this time we built analogic electronic circuits to study the chaotic behavior of the system under different parameters, and correlated the results with numerical simulations. Many interesting results are still waiting to be published. other results were published and are listed below.  
+<font size="3"> In my MS research, I worked under supervision of [Dr. Holokx A. Albuquerque](https://www.udesc.br/professor/holokx.albuquerque). My research was related to chaos theory and time series analysis. Particularly, I worked with bifurcation curves and Lyapunov exponents in chaotic dynamical systems. The following papers resulted from these researchs:  
 
-[Tracking multistability in the parameter space of a Chua’s circuit model](https://link.springer.com/article/10.1140/epjb/e2019-90749-x)  
-The European Physical Journal B - 2019  
+[Bifurcation structures and transient chaos in a four-dimensional Chua model](https://www.sciencedirect.com/science/article/pii/S0375960113010384)  
+Physics Letters A - 2014  
 
-[Characterizing the Dynamics of the Watt Governor System Under Harmonic Perturbation and Gaussian Noise](https://www.worldscientific.com/doi/abs/10.1142/S0218127420300013)  
-International Journal of Bifurcation and Chaos - 2020  
+[Numerical bifurcation analysis of two coupled FitzHugh-Nagumo oscillators](https://link.springer.com/article/10.1140/epjb/e2014-50170-9)  
+The European Physical Journal B - 2014  
 
-Particularly, the last publication is a Featured Article, and the cover of the issue. This cover is presented below. </font>
-
-<img src="images/cover_ijbc_2020.jpg" style="width:40%; border:0px solid; margin-right: 20px" align="center">
+[Extensive numerical study and circuitry implementation of the Watt governor model](https://www.worldscientific.com/doi/abs/10.1142/S0218127417501759)  
+International Journal of Bifurcation and Chaos - 2017 </font> 
