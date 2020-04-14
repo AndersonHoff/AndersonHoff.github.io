@@ -1,8 +1,6 @@
 ---
-output: html_document
+title: "Programming"
 ---
 <br>  
-
-## Programming  
 
 ### In construction...
