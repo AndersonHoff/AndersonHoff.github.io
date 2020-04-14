@@ -1,12 +1,11 @@
 ---
 title: "Teaching experience"
 ---
-<br>    
+  
+<font size="3"> In the past years, I had different experiences working as a high school teacher and after as a university professor.  
 
-<font size="3"> In the past years, I could had different experiences working as a high school teacher and after as a university professor.  
+In 2010, I worked as a part-time high school teacher at [Gustavo Gonzaga School](https://www.facebook.com/pages/Escola-B%C3%A1sica-Prof-Gustavo-Augusto-Gonzaga/196206913741888), and I was responsible for the Physics classes.  
 
-I worked in 2010 as a high school teacher, responsible for the Physics classes.  
+In 2019 I started working as an on-line tutor in [Catolica de Santa Catarina](http://www.catolicasc.org.br/). I was responsible for give help and feedback for students in different subjects, as Mathematics, Physics, Calculus and Algebra.  
 
-In 2019 I worked as an on-line tutor in a college. I was responsible for give help and feedback for students in different subjects, as Mathematics, Physics, Calculus and Algebra.  
-
-Also in 2019 I worked as a Professor in a private university, with Physics lectures to engineering students. </font>
+Also in 2019 I worked as a Professor in [UniSociesc](https://www.unisociesc.com.br/), with Physics lectures to engineering students. </font>
