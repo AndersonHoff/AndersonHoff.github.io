@@ -4,13 +4,17 @@ navbar:
   title: "Anderson Hoff"
   left:
     - text: "Academic"
+      icon: fa-university fa-lg
       href: academic.html
     - text: "Programming"
+      icon: fa-code fa-lg
       href: programming.html
-    - text: "Teaching"
-      href: teaching.html
     - text: "Research and Publications"
+      icon: fa-file-alt fa-lg
       href: publications.html
+    - text: "Teaching"
+      icon: fa-chalkboard-teacher fa-lg
+      href: teaching.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
