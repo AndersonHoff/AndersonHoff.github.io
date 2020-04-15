@@ -9,7 +9,7 @@ output: html_document
 I’d enjoy to hear from you, so feel free to reach out:  
 
 Toronto, ON - Canada  
-+1 (437) 388-2440  
++1 (437) 388-2440   
 hoffande@gmail.com  
 
 Or connect with me on GitHub or Linkedin (links in top right).
