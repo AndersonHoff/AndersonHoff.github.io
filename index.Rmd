@@ -4,7 +4,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/foto_Anderson.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
+<img src="images/foto_AndersonH.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
 
  <font size="3"> I like to analyze data to answer research questions and test hypotheses. Currently I work with different sources to improve my R programming and analysis skills. Also, I am working with Tableau in some data analysis projects.   
 
