@@ -6,7 +6,7 @@
 
 <img src="images/foto_AndersonH.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
 
- <font size="3"> I like to analyze data to answer research questions and test hypotheses. Currently I work with different sources to improve my R programming and analysis skills. Also, I am working with Tableau in some data analysis projects.   
+ <font size="3"> I love Physics, Mathematics, Statistics, Chemistry, and how we can use this knowledge to understand and explain almost every behavior in few lines. Also, I like to analyze data to answer research questions and test hypotheses. Currently I work with different sources to improve my R programming and analysis skills. Also, I am working with Tableau in some data analysis projects.   
 
 To have a big picture about my qualifications, take a look of my resume available [here](files/AndersonHoff_resume.pdf).  
 
