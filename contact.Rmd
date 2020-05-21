@@ -8,7 +8,7 @@ output: html_document
 
 I’d enjoy to hear from you, so feel free to reach out:  
 
-Toronto, ON - Canada  
+London, ON - Canada  
 +1 (437) 388-2440   
 hoffande@gmail.com  
 

@@ -1,7 +1,12 @@
 ---
 title: "Teaching experience"
 ---
-  
+
+<style>
+body {
+text-align: justify}
+</style>
+
 <font size="3"> In the past years, I had different experiences working as a high school teacher and after as a university professor.  
 
 In 2010, I worked as a part-time high school teacher at [Gustavo Gonzaga School](https://www.facebook.com/pages/Escola-B%C3%A1sica-Prof-Gustavo-Augusto-Gonzaga/196206913741888), and I was responsible for the Physics classes.  
