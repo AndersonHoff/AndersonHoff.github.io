@@ -25,6 +25,7 @@ navbar:
 output:
   html_document:
     theme: paper
-#    include:
+    include:
+      in_header: GA_script.html
 #      after_body: footer.html
     css: 'styles.css'
