@@ -1,23 +1,25 @@
 name: "Anderson Hoff"
 output_dir: "."
 navbar:
-  title: "Anderson Hoff"
+  title: "ANDERSON HOFF"
   left:
-    - text: "Academic"
+    - text: "ACADEMIC"
       icon: fa-university fa-lg
       href: academic.html
-    - text: "Programming"
+    - text: "PROGRAMMING"
       icon: fa-code fa-lg
       href: programming.html
-    - text: "Research and Publications"
-      icon: fa-file-alt fa-lg
+    - text: "RESEARCH & PUBLICATIONS"
+      icon: fa-file fa-lg
       href: publications.html
-    - text: "Teaching"
-      icon: fa-chalkboard-teacher fa-lg
+    - text: "TEACHING"
+      icon: fa-user fa-lg
       href: teaching.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
+    - icon: fa-google fa-lg
+      href: https://scholar.google.com/citations?user=oV62NPgAAAAJ
     - icon: fa-github fa-lg
       href: http://github.com/AndersonHoff
     - icon: fa-linkedin fa-lg
@@ -27,5 +29,5 @@ output:
     theme: paper
     include:
       in_header: GA_script.html
-#      after_body: footer.html
+      after_body: footer.html
     css: 'styles.css'

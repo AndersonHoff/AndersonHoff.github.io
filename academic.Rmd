@@ -1,5 +1,12 @@
 ---
 title: "Academic credentials"
+output:
+  html_document:
+    theme: paper
+    toc: TRUE
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
 ---
   
 ### Postdoctorate Fellow - (2018-2019)  

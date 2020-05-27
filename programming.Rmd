@@ -7,6 +7,12 @@ body {
 text-align: justify}
 </style>
 
+<font size="3"> WorldCount extracted from my resume. As can be seen, "data analysis", "Physics" and "research" are the most cited words., which makes sense looking for my past experience. </font>  
+
+<img src="images/resume2.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="center">
+
+<br>
+
 <font size="3"> In my past research activities, I needet to use different programming languages, as C++, Fortran, GnuPlot, Shell, Python, R. In general, I only learned the sufficient to solve my research challenges at each particular moment. The main difference now is that I really enjoyed R, and I am going deeper in this field to use it as a work tool.  
 
 Below there is a summary of my works, available on [GitHub](https://github.com/AndersonHoff).  

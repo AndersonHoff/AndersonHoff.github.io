@@ -6,10 +6,11 @@ output: html_document
 
 ## Contact Info  
 
-I’d enjoy to hear from you, so feel free to reach out:  
+<font size="3"> I’d enjoy to hear from you, so feel free to reach out:  
 
 London, ON - Canada  
 +1 (437) 388-2440   
 hoffande@gmail.com  
 
-Or connect with me on GitHub or Linkedin (links in top right).
+Or connect with me on GitHub or Linkedin (links in top right). 
+</font>

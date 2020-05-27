@@ -1,5 +1,12 @@
 ---
 title: "Research and publications"
+output:
+  html_document:
+    theme: paper
+    toc: TRUE
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
 ---
   
 <style>
@@ -11,7 +18,7 @@ text-align: justify}
 
 These papers are listed below, where I separated according to the respective research. </font>  
 
-##  {.tabset .tabset-fade .tabset-pills}
+
 
 ### Postdoctorate in Physics
 
