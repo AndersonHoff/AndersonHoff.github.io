@@ -1,5 +1,6 @@
 ---
-title: "Teaching experience"
+title: "Lectures and Teaching experience"
+
 ---
 
 <style>
@@ -7,10 +8,14 @@ body {
 text-align: justify}
 </style>
 
-<font size="3"> In the past years, I had different experiences working as a high school teacher and after as a university professor.  
+<font size="3"> In the past years, I had different teaching experiences, for different audiences and with different methodologies. 
 
-In 2010, I worked as a part-time high school teacher at [Gustavo Gonzaga School](https://www.facebook.com/pages/Escola-B%C3%A1sica-Prof-Gustavo-Augusto-Gonzaga/196206913741888), and I was responsible for the Physics classes.  
+* In 2010, I worked as a part-time high school teacher at [Gustavo Gonzaga School](https://www.facebook.com/pages/Escola-B%C3%A1sica-Prof-Gustavo-Augusto-Gonzaga/196206913741888). I was responsible for the Physics classes for all students at the high school. That was my first time as a teacher, and I could learn a lot, from both my colleagues and the students.  
 
-In 2019 I started working as an on-line tutor in [Catolica de Santa Catarina](http://www.catolicasc.org.br/). I was responsible for give help and feedback for students in different subjects, as Mathematics, Physics, Calculus and Algebra.  
+* In 2019 I worked as a Professor in [UniSociesc](https://www.unisociesc.com.br/). I lectured Physics for students of Mechanical, Electrical and Civil Engineering.  
 
-Also in 2019 I worked as a Professor in [UniSociesc](https://www.unisociesc.com.br/), with Physics lectures to engineering students. </font>
+* In 2019 I also worked as an online tutor in [Catolica de Santa Catarina](http://www.catolicasc.org.br/). I was responsible for giving help and feedback for students in different subjects, like Mathematics, Physics, Calculus and Algebra. It was a different experience for someone coming from the traditional blackboard classes, and the new technologies broadened my vision of the many ways we can teach and learn. The fast-paced environment and the colleagues were amazing, and I just left it because I got a postdoctoral fellowship.
+
+  
+
+</font>

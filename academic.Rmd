@@ -1,22 +1,29 @@
 ---
-title: "Academic credentials"
+title: "Education"
 output:
   html_document:
-    theme: paper
     toc: TRUE
     toc_float:
         collapsed: true
         smooth_scroll: true
 ---
-  
-### Postdoctorate Fellow - (2018-2019)  
-<font size="3"> Research in the [Physics Department](https://www.udesc.br/cct/departamentos/fisica) of the [Universidade do Estado de Santa Catarina](https://www.udesc.br/international). </font>   
+<style>
+body {
+text-align: justify}
+</style>
 
-### Doctorate Fellow - (2014-2017)  
-<font size="3"> Research in the Physics Department of [Universidade Federal do Parana](http://fisica.ufpr.br/pagina_ppgf_english/). </font>   
+<img src="images/physics.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="center">
 
-### Master Fellow - (2012-2014)  
-<font size="3"> Research in the [Physics Department](https://www.udesc.br/cct/departamentos/fisica) of the [Universidade do Estado de Santa Catarina](https://www.udesc.br/international).  </font>  
+<br>
 
-### Graduating Student - (2003-2007)  
-<font size="3"> Bachelor degree in Physics from the [Universidade do Estado de Santa Catarina](https://www.udesc.br/international). </font>  
+### Ph.D. in Physics - 2017  
+<font size="3"> From 2014 to 2017, with a scholarship from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior [(Capes)](https://www.capes.gov.br/), a Brazilian agency. I worked in the Laboratory of Organic Optoelectronic Devices (GOOD), under the supervision of [Prof. Ivo A. Hümmelgem](http://fisica.ufpr.br/pagina_ppgf_english/info_ivo.html), from the [Physics Department](http://fisica.ufpr.br/pagina_ppgf_english/) of [Universidade Federal do Parana](https://www.ufpr.br/portalufpr/). </font>   
+
+### Master in Physics - 2014  
+<font size="3"> From 2012 to 2014, also with a scholarship from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior [(Capes)](https://www.capes.gov.br/). The academic research was developed under supervision of [Prof. Holokx A. Albuquerque](https://www.udesc.br/professor/holokx.albuquerque), from the [Physics Department](https://www.udesc.br/cct/departamentos/fisica) of the [Universidade do Estado de Santa Catarina](https://www.udesc.br/international).  </font>  
+
+### Bachelor in Physics - 2007  
+<font size="3"> Bachelor degree in Physics from the [Universidade do Estado de Santa Catarina](https://www.udesc.br/international). From 2003 to 2007. </font>  
+
+<br>  
+
