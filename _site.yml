@@ -6,7 +6,10 @@ navbar:
     - text: "EDUCATION"
       icon: glyphicon-education fa-lg 
       href: academic.html
-    - text: "RESEARCH & PUBLICATIONS"
+    - text: "RESEARCH"
+      icon: fa-bolt fa-lg
+      href: research.html
+    - text: "PUBLICATIONS"
       icon: fa-file fa-lg
       href: publications.html      
     - text: "PROGRAMMING"
@@ -15,6 +18,9 @@ navbar:
     - text: "LECTURES"
       icon: fa-user fa-lg
       href: teaching.html
+    - text: "CV"
+      icon: fa-save fa-lg
+      href: curriculum.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

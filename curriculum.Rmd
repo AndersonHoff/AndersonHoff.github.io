@@ -1,0 +1,21 @@
+---
+title: "Curriculum"
+output:
+  html_document:
+    toc: FALSE
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<font size=3>
+If you cannot see the pdf viewer, you can download my curriculum [HERE](files/AndersonHoff_resume.pdf)
+</font>
+
+<embed src="files/AndersonHoff_resume.pdf" width="800px" height="600px" align="center" /> 
+
+<br>

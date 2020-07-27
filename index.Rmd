@@ -10,7 +10,7 @@
 <img src="images/foto_AndersonH.jpg" style="width:100%; border:5px solid; margin-right: 20px" align="center">  
 
 <center><font size = "5"> 
-ANDERSON HOFF  
+ANDERSON HOFF, Ph.D.  
 </font>
 <font size = "4">
 POSTDOCTORAL RESEARCHER  

@@ -10,11 +10,19 @@ text-align: justify}
 
 <font size="3"> In the past years, I had different teaching experiences, for different audiences and with different methodologies. 
 
-* In 2010, I worked as a part-time high school teacher at [Gustavo Gonzaga School](https://www.facebook.com/pages/Escola-B%C3%A1sica-Prof-Gustavo-Augusto-Gonzaga/196206913741888). I was responsible for the Physics classes for all students at the high school. That was my first time as a teacher, and I could learn a lot, from both my colleagues and the students.  
+* _Physics Teacher_   
+In 2010, I worked as a part-time high school teacher at [Gustavo Gonzaga School](https://www.facebook.com/pages/Escola-B%C3%A1sica-Prof-Gustavo-Augusto-Gonzaga/196206913741888), in Joinville - Brazil. I was responsible for the Physics classes for all students at the high school. That was my first time as a teacher, and I could learn a lot, from both my colleagues and the students.  
 
-* In 2019 I worked as a Professor in [UniSociesc](https://www.unisociesc.com.br/). I lectured Physics for students of Mechanical, Electrical and Civil Engineering.  
+* _Physics Instructor_   
+In 2019 I worked as a Professor in [UniSociesc](https://www.unisociesc.com.br/), in the first year the university has been open a new campus in Jaragua do Sul - Brazil. In this position, I had the opportunity to define the curriculum of Physics for engineering students at that university, specifically about the course structure, teaching supports, grading schemes and learning outcomes. This has included the best learning experience for the students.  
 
-* In 2019 I also worked as an online tutor in [Catolica de Santa Catarina](http://www.catolicasc.org.br/). I was responsible for giving help and feedback for students in different subjects, like Mathematics, Physics, Calculus and Algebra. It was a different experience for someone coming from the traditional blackboard classes, and the new technologies broadened my vision of the many ways we can teach and learn. The fast-paced environment and the colleagues were amazing, and I just left it because I got a postdoctoral fellowship.
+* _Online Instructor_  
+In 2019 I also worked as an online tutor in [Catolica de Santa Catarina](http://www.catolicasc.org.br/). I was responsible for giving help and feedback for students in different subjects, like Mathematics, Physics, Calculus and Algebra. It was a different experience for someone coming from the traditional blackboard classes, and the new technologies broadened my vision of the many ways we can teach and learn. The fast-paced environment and the colleagues were amazing, and I just left it because I got a postdoctoral fellowship.
+
+* _Research mentoring_  
+During my postdoctorate at UDESC and along with Prof. Holokx A. Albuquerque, I have co-supervised two MSc students towards the progression of their degree, challenging the candidates when required and assisting with structuring and developing their projects. This has included defining the scope of their research project, setting out specific equipment training sessions for them, and helping them drafting the final thesis and articles.   
+*Bruna G. pedro* - Coupling of the van der Pol and damped Duffing oscillators. Now Ph.D.  candidate in the Electrical Engineering Graduate Program at UDESC, awarded a PORMOP fellowship.  
+*Vinicius F. R. Antunes* - Analog computer of a four-dimensional Chua model.
 
   
 
