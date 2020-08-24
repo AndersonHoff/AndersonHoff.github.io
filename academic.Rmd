@@ -19,15 +19,15 @@ text-align: justify}
 ### Ph.D. in Physics - 2017  
 <font size="3"> From 2014 to 2017, with a scholarship from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior [(Capes)](https://www.capes.gov.br/), a Brazilian agency. I worked in the Laboratory of Organic Optoelectronic Devices (GOOD), under the supervision of [Prof. Ivo A. Hümmelgem](http://fisica.ufpr.br/pagina_ppgf_english/info_ivo.html), from the [Department of Physics](http://fisica.ufpr.br/pagina_ppgf_english/) of [Universidade Federal do Parana](https://www.ufpr.br/portalufpr/).  
 Thesis: **Development and characterization of GaxS10-x thin-film based solar cells**  
-Design, development and characterization of thin-film solar cells by employing a variety of
-organic and inorganic materials and, a wide range of characterization techniques to understand
+This research consisted on the design, development and characterization of thin-film solar cells, by employing a variety of
+organic and inorganic materials, and a wide range of characterization techniques, to understand
 the limiting factors and possibilities for improvements of the devices.
 </font>   
 
 ### Master in Physics - 2014  
 <font size="3"> From 2012 to 2014, with a scholarship awarded from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior [(Capes)](https://www.capes.gov.br/). The academic research was developed under supervision of [Prof. Holokx A. Albuquerque](https://www.udesc.br/professor/holokx.albuquerque), from the [Department of Physics](https://www.udesc.br/cct/departamentos/fisica) of the [Universidade do Estado de Santa Catarina](https://www.udesc.br/international).   
 Dissertation: **Bifurcation structures in 4-d dynamical systems**  
-Numerical simulations of electronic and neuronal chaotic systems, by using computational tools
+In this research, I employed numerical simulations of electronic and neuronal chaotic systems, by using computational tools
 written in Fortran and C++, and a theoretical analysis based on Chaos Theory fundamentals. The
 main results are related to mapping the abrupt transitions between the different behaviour of the
 systems (constant, periodic and chaotic).  

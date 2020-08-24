@@ -28,8 +28,6 @@ navbar:
       href: https://scholar.google.com/citations?user=oV62NPgAAAAJ
     - icon: fa-github fa-lg
       href: http://github.com/AndersonHoff
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/anderson-hoff-11582b23/?locale=en_US
 output:
   html_document:
     theme: cosmo

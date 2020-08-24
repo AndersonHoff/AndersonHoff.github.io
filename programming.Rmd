@@ -24,7 +24,7 @@ Some data analysis and machine learning experiments to predict the number of upv
 
 <br>
 
-<font size="3"> Below, the WorldCount made in R, with the text extracted from my resume. As can be seen, "data analysis", "Physics" and "research" are the most cited words, which makes sense looking for my past experience. </font>    
+<font size="3"> Below, the WorldCount made in R, with the text extracted from my resume. As can be seen, "Physics" and "research" are the most cited words, which makes sense looking for my past experience. </font>    
 
 <img src="images/resume2.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="center">
 
