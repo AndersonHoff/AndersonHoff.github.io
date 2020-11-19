@@ -26,6 +26,10 @@ navbar:
       href: contact.html
     - icon: fa-google fa-lg
       href: https://scholar.google.com/citations?user=oV62NPgAAAAJ
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/anderson-hoff-11582b23/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/Dr_AndersonHoff
     - icon: fa-github fa-lg
       href: http://github.com/AndersonHoff
 output:
