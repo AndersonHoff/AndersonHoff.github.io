@@ -13,33 +13,15 @@ body {
 text-align: justify}
 </style>
 
-<font size="3"> My research contributions are related to the steps in my career in the fields of photovoltaic devices, chaotic dynamic systems and electronic circuit analysis. In every work, I have optimized the existing model and published articles in relevant journals. Nowadays, I have been working on the connection between these fields, which can be a unique opportunity considering my experience in each particular research.
+<font size="3"> 
+My research contributions are related to the steps in my career in the fields of organic electronics, photovoltaic devices, chaotic systems and circuits. My research primarily focuses on organic and hybrid organic/inorganic electronics, mainly the fabrication and characterization of electronic and optoelectronic devices as solar cells, photodetectors, LEDs, transistors and sensors. In general, my interest goes from the processing of semiconductor films, the understanding of material and transport properties and the fabrication of innovative high performing devices.
+I also develop and use computational routines in the study of electronic circuits and its chaotic pattern recognition and estimation, including the data processing and analysis of large datasets. Last, my mechanical aptitude and experience motivates me to research ways to improve laboratory machinery and procedures with the aim to upgrade fabrication and characterization techniques and routines.
 
 </font>  
 
 <br>
 
-### Postdoctoral Research
-
-<font size="3"> In my postdoctoral research, I worked with time series analysis with Prof. Holokx A. Albuquerque, assembling analogic electronic circuits to study the chaotic behavior of systems under different parameters, and correlating the results with numerical simulations. 
-
-For the first time, we applied the 0-1 Test for Chaos to characterize the behavior of electronic systems in the parameter-space of dynamical systems, identifying the pattern behaviour by its time series analysis. The first results are published on International Journal of Bifurcation and Chaos. To achieve it, I developed programming routines in R to automate the numerical procedure for big datasets, which are being applied by other students from the research group in their analyses of numerical and experimental chaotic systems. These routines are available in my GitHub account.
-
-Some interesting results are still to be published. Other results were published and are listed below.  
-
-<i class="fa fa-file"></i> [Tracking multistability in the parameter space of a Chua’s circuit model](https://link.springer.com/article/10.1140/epjb/e2019-90749-x)  
-The European Physical Journal B - 2019  
-
-<i class="fa fa-file"></i> [Characterizing the Dynamics of the Watt Governor System Under Harmonic Perturbation and Gaussian Noise](https://www.worldscientific.com/doi/abs/10.1142/S0218127420300013)  
-International Journal of Bifurcation and Chaos - 2020  
-
-Particularly, the last publication is a Featured Article, and the cover of [International Journal of Bifurcation and Chaos 30-01](https://www.worldscientific.com/toc/ijbc/30/01), which I share below. </font>
-
-<img src="images/cover_ijbc_2020.jpg" style="width:30%; border:0px solid; margin-right: 20px" align="center">  
-
-<br>
-
-### Ph.D. in Physics  
+### Organic Electronics and Solar Cells
 
 <font size="3"> In my Ph.D. research, I worked in the Group of Organic Optoelectronic Devices, under supervision of [Prof. Ivo A. Hümmelgem](http://fisica.ufpr.br/pagina_ppgf_english/info_ivo.html). This was an experimental research with organic and inorganic solar cells. I have contributed to the research on solar cells and particularly in the application of Selenium and Selenium-based alloys in photovoltaic devices, highlighting the effects of adding different materials to the morphological and optical characteristics of Selenium in the fabrication of thin films. The obtained results explained the functionality of a simple structure, and how the film morphology and charge transfer to the electrodes is modified in a way that its power output is improved in consequence of the gallium. For the first time, careful analyses of capacitance-voltage and impedance spectroscopy were performed for Selenium-based solar cells, and I identified the recombination process that limits its efficiency and possible ways to overcome it. 
 This work was a mix between theory and experimental, and the results are published in the following papers:
@@ -60,9 +42,9 @@ Solar Energy Materials and Solar Cells - 2019
 
 <br>
 
-### Master in Physics  
+### Electronic Circuits and Chaos Theory
 
-<font size="3"> During my Master's research, I worked under supervision of [Prof. Holokx A. Albuquerque](https://www.udesc.br/professor/holokx.albuquerque). My research was related to chaos theory and time series analysis. Particularly, I worked with bifurcation curves and Lyapunov exponents in chaotic dynamical systems. My research contributed to the understanding of the chaotic behaviour on electronic systems, from both numerical and experimental approaches. Besides, the employment of different tools gave detailed information regarding the connection between different analyses and how to combine them in parameter-spaces.
+<font size="3"> I started my research in Chaos Theory during my Master's degree, and after in my postdoctoral research, both under supervision of [Prof. Holokx A. Albuquerque](https://www.udesc.br/professor/holokx.albuquerque). My research was related to chaos theory and time series analysis. Particularly, I worked with bifurcation curves and Lyapunov exponents in chaotic dynamical systems. My research contributed to the understanding of the chaotic behaviour on electronic systems, from both numerical and experimental approaches. Besides, the employment of different tools gave detailed information regarding the connection between different analyses and how to combine them in parameter-spaces.
 
 The following papers resulted from these researchs:  
 
@@ -73,5 +55,24 @@ Physics Letters A - 2014
 The European Physical Journal B - 2014  
 
 <i class="fa fa-file"></i> [Extensive numerical study and circuitry implementation of the Watt governor model](https://www.worldscientific.com/doi/abs/10.1142/S0218127417501759)  
-International Journal of Bifurcation and Chaos - 2017 </font> 
+International Journal of Bifurcation and Chaos - 2017  
+
+Furthermore, on my Postdoctoral research I worked with time series analysis and assembling analogic electronic circuits to study the chaotic behavior of systems under different parameters, and correlating the results with numerical simulations. 
+
+For the first time, we applied the 0-1 Test for Chaos to characterize the behavior of electronic systems in the parameter-space of dynamical systems, identifying the pattern behaviour by its time series analysis. The first results are published on International Journal of Bifurcation and Chaos. To achieve it, I developed programming routines in R to automate the numerical procedure for big datasets, which are being applied by other students from the research group in their analyses of numerical and experimental chaotic systems. These routines are available in my GitHub account.
+
+Some interesting results are still to be published. Other results were published and are listed below.  
+
+<i class="fa fa-file"></i> [Tracking multistability in the parameter space of a Chua’s circuit model](https://link.springer.com/article/10.1140/epjb/e2019-90749-x)  
+The European Physical Journal B - 2019  
+
+<i class="fa fa-file"></i> [Characterizing the Dynamics of the Watt Governor System Under Harmonic Perturbation and Gaussian Noise](https://www.worldscientific.com/doi/abs/10.1142/S0218127420300013)  
+International Journal of Bifurcation and Chaos - 2020  
+
+Particularly, the last publication is a Featured Article, and the cover of [International Journal of Bifurcation and Chaos 30-01](https://www.worldscientific.com/toc/ijbc/30/01), which I share below. </font>
+
+<img src="images/cover_ijbc_2020.jpg" style="width:30%; border:0px solid; margin-right: 20px" align="center">  
+
+<br>
+
 
