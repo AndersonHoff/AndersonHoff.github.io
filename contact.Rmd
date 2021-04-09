@@ -8,8 +8,9 @@ output: html_document
 
 <font size="3"> I’d enjoy to hear from you, so feel free to reach out:  
 
-London, ON - Canada  
+Calgary, AB - Canada  
 +1 (437) 388-2440   
+anderson.hoff@ucalgary.ca  
 hoffande@gmail.com  
 
 Or connect with me on Twitter, LinkedIn or GitHub (links in top right). 

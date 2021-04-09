@@ -12,9 +12,9 @@ navbar:
     - text: "PUBLICATIONS"
       icon: fa-file fa-lg
       href: publications.html      
-    - text: "PROGRAMMING"
-      icon: fa-code fa-lg
-      href: programming.html
+#    - text: "PROGRAMMING"
+#      icon: fa-code fa-lg
+#      href: programming.html
     - text: "LECTURES"
       icon: fa-user fa-lg
       href: teaching.html

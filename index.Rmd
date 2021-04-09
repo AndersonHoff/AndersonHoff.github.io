@@ -27,13 +27,13 @@ PHYSICS
 body {
 text-align: justify}
 </style>
- <font size="3"> I love Physics, Chemistry, Mathematics and Statistics, and to research and connect pieces of information to develop new products and solutions for a cleaner and more efficient world. Besides, I like to analyze data to answer research questions and test hypotheses. To have a big picture of my qualifications, take a look at my resume available [here](files/AndersonHoff_resume.pdf).  
+ <font size="3"> I love Physics, Chemistry, Mathematics and Statistics, and to research and connect pieces of information to develop new products and solutions for a cleaner and more efficient world. Besides, I like to analyze data to answer research questions and test hypotheses. Nowadays I am a Postdoctoral Associate at the University of Calgary, working at the Functional Materials and Advanced Coatings Laboratory with organic solar cells (OPVs) and leds (OLEDs), part of the [Welch Research Group](https://welchlab.wixsite.com/website) of [Prof. Gregory Welch](https://science.ucalgary.ca/chemistry/contacts/gregory).  
 
 In some words, I graduated from the [Universidade do Estado de Santa Catarina](https://www.udesc.br/cct/ppgf) with a BS and after an MS in Physics in 2014. In this same year, I began working toward my Ph.D. in Physics as a full-time research assistant at [Universidade Federal do Parana](http://fisica.ufpr.br/pagina_ppgf_english/), where I built and fully characterized organic and inorganic solar cells, under the advisement of [Prof. Ivo A. Hümmelgen](http://fisica.ufpr.br/pagina_ppgf_english/info_ivo.html). I obtained my Ph.D. at the end of 2017.
 
-From 2018 to 2019 I worked as a Physics and Mathematics Lecturer, and after as a Postdoctoral Researcher in the laboratory of [Prof. Holokx A. Albuquerque](https://www.udesc.br/professor/holokx.albuquerque), from the [Physics Department](https://www.udesc.br/cct/departamentos/fisica) of the [Universidade do Estado de Santa Catarina](https://www.udesc.br/international). My research was focused on chaotic time series analysis, obtained by electronic circuits and numerical simulations. That turned on as an incredible opportunity to use my laboratory skills and to master my programming skills, and at that time I started programming in R.   
+From 2018 to 2019 I worked as a Physics and Mathematics Lecturer, and after as a Postdoctoral Researcher in the laboratory of [Prof. Holokx A. Albuquerque](https://www.udesc.br/professor/holokx.albuquerque), from the [Physics Department](https://www.udesc.br/cct/departamentos/fisica) of the [Universidade do Estado de Santa Catarina](https://www.udesc.br/international). My research was focused on chaotic time series analysis, obtained by electronic circuits and numerical simulations. 
                                                                                                                                             
-At the beginning of 2020, I moved from Brazil to Canada, and now I am based in London ON. </font>
+At the beginning of 2020, I moved from Brazil to Canada, and now I am based in Calgary, the sunniest city of Canada and besides the amazing Rocky Mountains. </font>
 
 :::
 
